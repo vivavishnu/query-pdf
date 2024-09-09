@@ -1,0 +1,2 @@
+# Query-PDF
+QueryPDF, a conversational AI system on Streamlit that allows users to interact with and query PDF documents in real time. Leveraged Retrieval-Augmented Generation (RAG) techniques with pre-trained language models and vector embeddings (HuggingFace MiniLM, Chroma) for accurate, context-aware answers. Integrated multi-session chat history to enhance question comprehension based on previous interactions. Built an intuitive interface for easy document uploads and seamless content exploration, improving document accessibility.
