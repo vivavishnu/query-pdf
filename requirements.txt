@@ -11,5 +11,6 @@ langchain_huggingface
 huggingface_hub
 python-dotenv
 streamlit
+sqlite3 == 3.35.0
 protobuf==3.20.1
 
