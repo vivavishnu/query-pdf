@@ -1,0 +1,13 @@
+langchain
+langchain_community
+langchain_core
+langchain_chroma
+langchain_groq
+pypdf
+pymupdf
+arxiv
+langchain_text_splitters
+langchain_huggingface
+huggingface_hub
+python-dotenv
+streamlit
